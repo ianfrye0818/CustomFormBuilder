@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1733843128612",
+    "type": "radio",
+    "label": "TEST RADIO",
+    "name": "TEST RADIO",
+    "options": ["one", "two", "three", "four"]
+  },
+  {
+    "id": "1733843145464",
+    "type": "select",
+    "label": "",
+    "name": "TEST SELECT",
+    "options": ["one", "two", "three"]
+  },
+  {
+    "id": "1733843228627",
+    "type": "text",
+    "label": "First Name",
+    "name": "firstName",
+    "placeholder": "Enter your first name"
+  },
+  {
+    "id": "1733843229190",
+    "type": "textarea",
+    "label": "Biography",
+    "name": "BIO",
+    "placeholder": "Enter a short bio about yourself..."
+  },
+  {
+    "id": "1733843230137",
+    "type": "number",
+    "label": "Age",
+    "name": "AGE",
+    "placeholder": "What is your age?"
+  },
+  {
+    "id": "1733843230805",
+    "type": "checkbox",
+    "label": "Do you have friends?",
+    "name": "CHECKBOX",
+    "placeholder": ""
+  }
+]
